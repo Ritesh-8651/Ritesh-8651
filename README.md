@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritesh-8651
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Data analytics/ Datascientist
+- 🌱  Data analytics / Datascientist
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me on my mail id-rraj1692004@gmsil.com 
 - 😄 Pronouns: He/Him
